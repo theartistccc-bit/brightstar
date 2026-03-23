@@ -1,0 +1,1240 @@
+{
+  "version": "0.4",
+  "title": "Heroes World Secondary School",
+  "type": "page",
+  "content": [
+    {
+      "id": "a5575c14",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "background_background": "classic",
+        "background_color": "#FF6321",
+        "padding": {
+          "top": "18",
+          "right": "48",
+          "bottom": "18",
+          "left": "48",
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "0b68ea9c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 30
+          },
+          "elements": [
+            {
+              "id": "14631567",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "H  HEROES WORLD",
+                "header_size": "h3",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "size": 22,
+                  "unit": "px"
+                },
+                "typography_font_weight": "800",
+                "title_color": "#ffffff",
+                "align": "left",
+                "typography_font_family": "Outfit"
+              }
+            }
+          ]
+        },
+        {
+          "id": "e68d1cca",
+          "elType": "column",
+          "settings": {
+            "_column_size": 70
+          },
+          "elements": [
+            {
+              "id": "bb6b33b3",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p><a href='#home' style='color:#fff;margin-right:24px;font-weight:600;'>Home</a><a href='#about' style='color:#fff;margin-right:24px;font-weight:600;'>About</a><a href='#academics' style='color:#fff;margin-right:24px;font-weight:600;'>Academics</a><a href='#admissions' style='color:#fff;margin-right:24px;font-weight:600;'>Admissions</a><a href='#contact' style='color:#fff;font-weight:600;'>Contact</a></p>",
+                "align": "right"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a8bdfcf",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "background_background": "gradient",
+        "background_color": "#FFF7F3",
+        "background_color_b": "#F0EDFF",
+        "background_gradient_angle": {
+          "size": 135,
+          "unit": "deg"
+        },
+        "padding": {
+          "top": "0",
+          "right": "64",
+          "bottom": "0",
+          "left": "64",
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "a3cd57a3",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "padding": {
+              "top": "80",
+              "right": "40",
+              "bottom": "80",
+              "left": "0",
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "3864c29c",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style='display:inline-block;background:#F0EDFF;color:#4F46E5;font-weight:700;font-size:13px;padding:6px 18px;border-radius:50px;'>✦ Empowering Future Leaders</p>"
+              }
+            },
+            {
+              "id": "4a3040e0",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "size": 16,
+                  "unit": "px"
+                }
+              }
+            },
+            {
+              "id": "febcc281",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Welcome to <br><span style=\"background:linear-gradient(90deg,#FF6321,#4F46E5,#00C300);-webkit-background-clip:text;-webkit-text-fill-color:transparent\">HEROES WORLD</span>",
+                "header_size": "h1",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "size": 68,
+                  "unit": "px"
+                },
+                "typography_font_weight": "800",
+                "typography_font_family": "Outfit",
+                "title_color": "#1C1917",
+                "align": "left"
+              }
+            },
+            {
+              "id": "0956ce44",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "size": 20,
+                  "unit": "px"
+                }
+              }
+            },
+            {
+              "id": "441b0aca",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>A premier secondary school in Calabar, Nigeria, dedicated to academic excellence, character building, and creative innovation.</p>",
+                "text_color": {
+                  "value": "#78716C"
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "size": 20,
+                  "unit": "px"
+                },
+                "typography_font_weight": "400",
+                "align": "left"
+              }
+            },
+            {
+              "id": "5a28b0d6",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "size": 28,
+                  "unit": "px"
+                }
+              }
+            },
+            {
+              "id": "8ea21461",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Start Your Journey →",
+                "button_type": "default",
+                "size": "xl",
+                "background_color": "#FF6321",
+                "button_text_color": "#ffffff",
+                "typography_font_size": {
+                  "size": 18,
+                  "unit": "px"
+                },
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "top": "18",
+                  "right": "18",
+                  "bottom": "18",
+                  "left": "18",
+                  "unit": "px"
+                },
+                "padding": {
+                  "top": "18",
+                  "right": "40",
+                  "bottom": "18",
+                  "left": "40",
+                  "unit": "px"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "5bd16cba",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "padding": {
+              "top": "80",
+              "right": "0",
+              "bottom": "80",
+              "left": "40",
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "30dc20d6",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://picsum.photos/seed/school/800/800",
+                  "alt": "Heroes World Campus"
+                },
+                "image_border_radius": {
+                  "top": "48",
+                  "right": "48",
+                  "bottom": "48",
+                  "left": "48",
+                  "unit": "px"
+                },
+                "width": {
+                  "size": 100,
+                  "unit": "%"
+                }
+              }
+            },
+            {
+              "id": "d7313fd1",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "size": 16,
+                  "unit": "px"
+                }
+              }
+            },
+            {
+              "id": "0f16c8a8",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div style='display:flex;gap:16px;justify-content:center;'><div style='background:#fff;padding:20px 28px;border-radius:20px;box-shadow:0 4px 24px rgba(0,0,0,0.1);text-align:center;'><div style='font-size:28px;font-weight:800;color:#1C1917;'>100%</div><div style='color:#78716C;font-size:13px;'>WAEC Success Rate</div></div><div style='background:#fff;padding:20px 28px;border-radius:20px;box-shadow:0 4px 24px rgba(0,0,0,0.1);text-align:center;'><div style='font-size:28px;font-weight:800;color:#1C1917;'>500+</div><div style='color:#78716C;font-size:13px;'>Active Students</div></div></div>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "020e8dd5",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "padding": {
+          "top": "80",
+          "right": "120",
+          "bottom": "32",
+          "left": "120",
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "da6b4716",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "2146e2b7",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Why Choose Heroes World?",
+                "header_size": "h2",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "size": 42,
+                  "unit": "px"
+                },
+                "typography_font_weight": "800",
+                "title_color": "#1C1917",
+                "align": "center"
+              }
+            },
+            {
+              "id": "2f6ff3c2",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "size": 12,
+                  "unit": "px"
+                }
+              }
+            },
+            {
+              "id": "df97a006",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>We provide an environment where every child is a hero in their own right, nurtured to reach their full potential.</p>",
+                "text_color": {
+                  "value": "#78716C"
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "size": 18,
+                  "unit": "px"
+                },
+                "typography_font_weight": "400",
+                "align": "center"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4329d94c",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "padding": {
+          "top": "32",
+          "right": "64",
+          "bottom": "80",
+          "left": "64",
+          "unit": "px"
+        },
+        "gap": "30"
+      },
+      "elements": [
+        {
+          "id": "6fcb122d",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33
+          },
+          "elements": [
+            {
+              "id": "faf585e3",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "library": "fa-solid",
+                  "value": "fa-book-open"
+                },
+                "title_text": "Academic Excellence",
+                "description_text": "Rigorous curriculum blending Nigerian and British standards to prepare students for global success.",
+                "icon_color": "#3B82F6",
+                "icon_size": {
+                  "size": 28,
+                  "unit": "px"
+                },
+                "icon_padding": {
+                  "top": "14",
+                  "right": "14",
+                  "bottom": "14",
+                  "left": "14",
+                  "unit": "px"
+                },
+                "icon_primary_color": "#3B82F6",
+                "icon_secondary_color": "#ffffff",
+                "background_color": "#EFF6FF",
+                "border_radius": {
+                  "top": "24",
+                  "right": "24",
+                  "bottom": "24",
+                  "left": "24",
+                  "unit": "px"
+                },
+                "padding": {
+                  "top": "32",
+                  "right": "32",
+                  "bottom": "32",
+                  "left": "32",
+                  "unit": "px"
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "size": 22,
+                  "unit": "px"
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_font_size": {
+                  "size": 16,
+                  "unit": "px"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "b1e3b1e5",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33
+          },
+          "elements": [
+            {
+              "id": "d88aabbc",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "library": "fa-solid",
+                  "value": "fa-graduation-cap"
+                },
+                "title_text": "Holistic Development",
+                "description_text": "Beyond books, we focus on character, leadership, and emotional intelligence.",
+                "icon_color": "#10B981",
+                "icon_size": {
+                  "size": 28,
+                  "unit": "px"
+                },
+                "icon_padding": {
+                  "top": "14",
+                  "right": "14",
+                  "bottom": "14",
+                  "left": "14",
+                  "unit": "px"
+                },
+                "icon_primary_color": "#10B981",
+                "icon_secondary_color": "#ffffff",
+                "background_color": "#ECFDF5",
+                "border_radius": {
+                  "top": "24",
+                  "right": "24",
+                  "bottom": "24",
+                  "left": "24",
+                  "unit": "px"
+                },
+                "padding": {
+                  "top": "32",
+                  "right": "32",
+                  "bottom": "32",
+                  "left": "32",
+                  "unit": "px"
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "size": 22,
+                  "unit": "px"
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_font_size": {
+                  "size": 16,
+                  "unit": "px"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "00438251",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33
+          },
+          "elements": [
+            {
+              "id": "8e6b0d0a",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "library": "fa-solid",
+                  "value": "fa-school"
+                },
+                "title_text": "Modern Facilities",
+                "description_text": "State-of-the-art labs, creative studios, and sports arenas for a complete learning experience.",
+                "icon_color": "#F97316",
+                "icon_size": {
+                  "size": 28,
+                  "unit": "px"
+                },
+                "icon_padding": {
+                  "top": "14",
+                  "right": "14",
+                  "bottom": "14",
+                  "left": "14",
+                  "unit": "px"
+                },
+                "icon_primary_color": "#F97316",
+                "icon_secondary_color": "#ffffff",
+                "background_color": "#FFF7ED",
+                "border_radius": {
+                  "top": "24",
+                  "right": "24",
+                  "bottom": "24",
+                  "left": "24",
+                  "unit": "px"
+                },
+                "padding": {
+                  "top": "32",
+                  "right": "32",
+                  "bottom": "32",
+                  "left": "32",
+                  "unit": "px"
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "size": 22,
+                  "unit": "px"
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_font_size": {
+                  "size": 16,
+                  "unit": "px"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c62c9d54",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "background_background": "classic",
+        "background_color": "#FAFAF9",
+        "padding": {
+          "top": "80",
+          "right": "64",
+          "bottom": "80",
+          "left": "64",
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "8297e823",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "padding": {
+              "top": "0",
+              "right": "48",
+              "bottom": "0",
+              "left": "0",
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "1677d5f1",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "A Curriculum Designed for the Future",
+                "header_size": "h2",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "size": 38,
+                  "unit": "px"
+                },
+                "typography_font_weight": "800",
+                "title_color": "#1C1917",
+                "align": "left"
+              }
+            },
+            {
+              "id": "6ea937e8",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "size": 20,
+                  "unit": "px"
+                }
+              }
+            },
+            {
+              "id": "3756062a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Our academic program challenges students while providing support to excel. We integrate technology into every classroom, ensuring students are digitally literate and ready for the 21st century.</p>",
+                "text_color": {
+                  "value": "#78716C"
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "size": 17,
+                  "unit": "px"
+                },
+                "typography_font_weight": "400",
+                "align": "left"
+              }
+            },
+            {
+              "id": "f5eb4307",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "size": 28,
+                  "unit": "px"
+                }
+              }
+            },
+            {
+              "id": "5773cb98",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div style='display:grid;grid-template-columns:1fr 1fr;gap:12px;'>\n<div style='display:flex;align-items:center;gap:10px;padding:16px 20px;background:#fff;border-radius:16px;border:1px solid #E7E5E4;font-weight:600;'>🔬 STEM Education</div>\n<div style='display:flex;align-items:center;gap:10px;padding:16px 20px;background:#fff;border-radius:16px;border:1px solid #E7E5E4;font-weight:600;'>🎨 Creative Arts</div>\n<div style='display:flex;align-items:center;gap:10px;padding:16px 20px;background:#fff;border-radius:16px;border:1px solid #E7E5E4;font-weight:600;'>⚽ Sports & Athletics</div>\n<div style='display:flex;align-items:center;gap:10px;padding:16px 20px;background:#fff;border-radius:16px;border:1px solid #E7E5E4;font-weight:600;'>👥 Leadership Training</div>\n</div>"
+              }
+            },
+            {
+              "id": "378b83a0",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "size": 24,
+                  "unit": "px"
+                }
+              }
+            },
+            {
+              "id": "980b770f",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Explore Our Curriculum →",
+                "button_type": "default",
+                "background_color": "rgba(0,0,0,0)",
+                "button_text_color": "#FF6321",
+                "border_border": "solid",
+                "border_color": "#FF6321",
+                "border_width": {
+                  "top": "2",
+                  "right": "2",
+                  "bottom": "2",
+                  "left": "2",
+                  "unit": "px"
+                },
+                "border_radius": {
+                  "top": "50",
+                  "right": "50",
+                  "bottom": "50",
+                  "left": "50",
+                  "unit": "px"
+                },
+                "typography_font_weight": "700",
+                "padding": {
+                  "top": "14",
+                  "right": "32",
+                  "bottom": "14",
+                  "left": "32",
+                  "unit": "px"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "b3f1938b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50
+          },
+          "elements": [
+            {
+              "id": "08edf707",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://picsum.photos/seed/learning/800/600",
+                  "alt": "Students in classroom"
+                },
+                "image_border_radius": {
+                  "top": "40",
+                  "right": "40",
+                  "bottom": "40",
+                  "left": "40",
+                  "unit": "px"
+                },
+                "width": {
+                  "size": 100,
+                  "unit": "%"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "995ee7e7",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "background_background": "classic",
+        "background_color": "#FF6321",
+        "padding": {
+          "top": "60",
+          "right": "64",
+          "bottom": "60",
+          "left": "64",
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "a98443cc",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25
+          },
+          "elements": [
+            {
+              "id": "b77c3f2f",
+              "elType": "widget",
+              "widgetType": "counter",
+              "settings": {
+                "starting_number": 0,
+                "ending_number": 100,
+                "suffix": "%",
+                "title": "WAEC Pass Rate",
+                "number_color": "#ffffff",
+                "title_color": "rgba(255,255,255,0.7)",
+                "typography_font_size": {
+                  "size": 52,
+                  "unit": "px"
+                },
+                "typography_font_weight": "800",
+                "align": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ad49750c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25
+          },
+          "elements": [
+            {
+              "id": "14c1427b",
+              "elType": "widget",
+              "widgetType": "counter",
+              "settings": {
+                "starting_number": 0,
+                "ending_number": 500,
+                "suffix": "+",
+                "title": "Active Students",
+                "number_color": "#ffffff",
+                "title_color": "rgba(255,255,255,0.7)",
+                "typography_font_size": {
+                  "size": 52,
+                  "unit": "px"
+                },
+                "typography_font_weight": "800",
+                "align": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "04b995b0",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25
+          },
+          "elements": [
+            {
+              "id": "ce573cd1",
+              "elType": "widget",
+              "widgetType": "counter",
+              "settings": {
+                "starting_number": 0,
+                "ending_number": 15,
+                "suffix": "+",
+                "title": "Years of Excellence",
+                "number_color": "#ffffff",
+                "title_color": "rgba(255,255,255,0.7)",
+                "typography_font_size": {
+                  "size": 52,
+                  "unit": "px"
+                },
+                "typography_font_weight": "800",
+                "align": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ba6a3bfb",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25
+          },
+          "elements": [
+            {
+              "id": "d3f81ff9",
+              "elType": "widget",
+              "widgetType": "counter",
+              "settings": {
+                "starting_number": 0,
+                "ending_number": 20,
+                "suffix": "+",
+                "title": "Qualified Teachers",
+                "number_color": "#ffffff",
+                "title_color": "rgba(255,255,255,0.7)",
+                "typography_font_size": {
+                  "size": 52,
+                  "unit": "px"
+                },
+                "typography_font_weight": "800",
+                "align": "center"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e6d1b8f",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "background_background": "classic",
+        "background_color": "#1C1917",
+        "padding": {
+          "top": "80",
+          "right": "80",
+          "bottom": "80",
+          "left": "80",
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "672f349a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "padding": {
+              "top": "0",
+              "right": "48",
+              "bottom": "0",
+              "left": "0",
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "4b2d6c9a",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Visit Us in Calabar",
+                "header_size": "h2",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "size": 42,
+                  "unit": "px"
+                },
+                "typography_font_weight": "800",
+                "title_color": "#ffffff",
+                "align": "left"
+              }
+            },
+            {
+              "id": "be738031",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "size": 16,
+                  "unit": "px"
+                }
+              }
+            },
+            {
+              "id": "e80820f0",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>We'd love to show you around our campus. Schedule a visit today and see why Heroes World is the right choice for your child.</p>",
+                "text_color": {
+                  "value": "rgba(255,255,255,0.65)"
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "size": 17,
+                  "unit": "px"
+                },
+                "typography_font_weight": "400",
+                "align": "left"
+              }
+            },
+            {
+              "id": "1ea5758e",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "size": 32,
+                  "unit": "px"
+                }
+              }
+            },
+            {
+              "id": "e1e1bad5",
+              "elType": "widget",
+              "widgetType": "icon-list",
+              "settings": {
+                "icon_list": [
+                  {
+                    "_id": "aa59d789",
+                    "text": "123 Heroes Way, Calabar Municipality, Cross River State, Nigeria",
+                    "selected_icon": {
+                      "library": "fa-solid",
+                      "value": "fa-map-marker-alt"
+                    },
+                    "icon_color": "#FF6321"
+                  },
+                  {
+                    "_id": "1c63a6f9",
+                    "text": "+234 800 HEROES WORLD",
+                    "selected_icon": {
+                      "library": "fa-solid",
+                      "value": "fa-phone"
+                    },
+                    "icon_color": "#00C300"
+                  },
+                  {
+                    "_id": "b5fe66fd",
+                    "text": "admissions@heroesworld.edu.ng",
+                    "selected_icon": {
+                      "library": "fa-solid",
+                      "value": "fa-envelope"
+                    },
+                    "icon_color": "#4F46E5"
+                  }
+                ],
+                "icon_color": "#ffffff",
+                "text_color": "rgba(255,255,255,0.7)",
+                "space_between": {
+                  "size": 20,
+                  "unit": "px"
+                },
+                "icon_size": {
+                  "size": 18,
+                  "unit": "px"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "9a1384b5",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50
+          },
+          "elements": [
+            {
+              "id": "b452495c",
+              "elType": "widget",
+              "widgetType": "form",
+              "settings": {
+                "form_name": "Contact Heroes World",
+                "form_fields": [
+                  {
+                    "_id": "1e2e333e",
+                    "field_type": "text",
+                    "field_label": "Your Name",
+                    "placeholder": "Your Name",
+                    "required": "yes"
+                  },
+                  {
+                    "_id": "5494f32e",
+                    "field_type": "email",
+                    "field_label": "Your Email",
+                    "placeholder": "Your Email",
+                    "required": "yes"
+                  },
+                  {
+                    "_id": "d58048b7",
+                    "field_type": "textarea",
+                    "field_label": "Your Message",
+                    "placeholder": "Your Message",
+                    "rows": 4,
+                    "required": "yes"
+                  }
+                ],
+                "submit_actions": [
+                  {
+                    "action": "email"
+                  }
+                ],
+                "button_text": "Send Message",
+                "button_background_color": "#FF6321",
+                "button_text_color": "#ffffff",
+                "button_border_radius": {
+                  "top": "14",
+                  "right": "14",
+                  "bottom": "14",
+                  "left": "14",
+                  "unit": "px"
+                },
+                "input_background_color": "rgba(255,255,255,0.08)",
+                "input_border_color": "rgba(255,255,255,0.15)",
+                "input_color": "#ffffff",
+                "label_color": "#ffffff",
+                "border_radius": {
+                  "top": "14",
+                  "right": "14",
+                  "bottom": "14",
+                  "left": "14",
+                  "unit": "px"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "393b0db0",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "background_background": "classic",
+        "background_color": "#FAFAF9",
+        "border_border": "solid",
+        "border_color": "#E7E5E4",
+        "border_width": {
+          "top": "1",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "unit": "px"
+        },
+        "padding": {
+          "top": "40",
+          "right": "64",
+          "bottom": "40",
+          "left": "64",
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "77def91c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 40
+          },
+          "elements": [
+            {
+              "id": "507e028b",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "H  HEROES WORLD",
+                "header_size": "h3",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "size": 20,
+                  "unit": "px"
+                },
+                "typography_font_weight": "800",
+                "title_color": "#1C1917",
+                "align": "left"
+              }
+            },
+            {
+              "id": "5c1a30c4",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "size": 8,
+                  "unit": "px"
+                }
+              }
+            },
+            {
+              "id": "275c9f6d",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Empowering Future Leaders in Calabar, Nigeria.</p>",
+                "text_color": {
+                  "value": "#78716C"
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "size": 14,
+                  "unit": "px"
+                },
+                "typography_font_weight": "400",
+                "align": "left"
+              }
+            }
+          ]
+        },
+        {
+          "id": "f064d252",
+          "elType": "column",
+          "settings": {
+            "_column_size": 30
+          },
+          "elements": [
+            {
+              "id": "3d7d88e4",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style='text-align:center;color:#A8A29E;font-size:14px;'>© 2025 Heroes World Secondary School. All rights reserved.</p>",
+                "align": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "485cbdb1",
+          "elType": "column",
+          "settings": {
+            "_column_size": 30
+          },
+          "elements": [
+            {
+              "id": "023d5a02",
+              "elType": "widget",
+              "widgetType": "social-icons",
+              "settings": {
+                "social_icon_list": [
+                  {
+                    "_id": "70ae2d68",
+                    "social_icon": {
+                      "library": "fa-brands",
+                      "value": "fa-twitter"
+                    },
+                    "link": {
+                      "url": "#"
+                    },
+                    "color": "custom",
+                    "icon_primary_color": "#1C1917"
+                  },
+                  {
+                    "_id": "45eb1a7a",
+                    "social_icon": {
+                      "library": "fa-brands",
+                      "value": "fa-facebook-f"
+                    },
+                    "link": {
+                      "url": "#"
+                    },
+                    "color": "custom",
+                    "icon_primary_color": "#1C1917"
+                  },
+                  {
+                    "_id": "434fd249",
+                    "social_icon": {
+                      "library": "fa-brands",
+                      "value": "fa-instagram"
+                    },
+                    "link": {
+                      "url": "#"
+                    },
+                    "color": "custom",
+                    "icon_primary_color": "#1C1917"
+                  },
+                  {
+                    "_id": "25841b25",
+                    "social_icon": {
+                      "library": "fa-brands",
+                      "value": "fa-linkedin-in"
+                    },
+                    "link": {
+                      "url": "#"
+                    },
+                    "color": "custom",
+                    "icon_primary_color": "#1C1917"
+                  }
+                ],
+                "align": "right",
+                "icon_size": {
+                  "size": 18,
+                  "unit": "px"
+                },
+                "icon_spacing": {
+                  "size": 16,
+                  "unit": "px"
+                },
+                "shape": "circle",
+                "shape_color_hover": "#FF6321"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes",
+    "template": "elementor_header_footer"
+  }
+}
